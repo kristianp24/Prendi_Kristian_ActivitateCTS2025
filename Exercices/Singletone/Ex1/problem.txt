@@ -1,0 +1,5 @@
+**ChatGPT generated**
+A logging system is needed for a software application.
+The system should ensure that all logs (errors, warnings, info) are written to the same file,
+and only one instance of the logger exists in the application.
+Implement a module that provides a single logging instance and allows writing messages to the log file.

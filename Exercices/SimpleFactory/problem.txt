@@ -1,0 +1,6 @@
+** ChatGPT generated **
+A transportation company provides multiple types of vehicles for rent:
+car, bike, and scooter.
+Implement a factory module that allows the creation of different vehicle objects based on an enumeration
+ that specifies the type of vehicle.
+Each vehicle should have a method to display its specifications.

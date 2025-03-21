@@ -1,0 +1,6 @@
+**  ChatGPT generated **
+A task manager is required for an operating system.
+The system should maintain a single instance that keeps track of all running processes.
+ Each process has attributes like PID, name, and memory usage.
+ The manager should allow adding new processes, removing processes,
+ and retrieving the list of running processes. Implement this using a singleton collection.
