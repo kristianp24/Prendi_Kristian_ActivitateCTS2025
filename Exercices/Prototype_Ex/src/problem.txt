@@ -1,0 +1,7 @@
+** ChatGPT generated **
+
+A car rental company maintains a large fleet of cars.
+Whenever a customer rents a car, the system needs to generate a new rental agreement with all car details
+(model, insurance, rental period). Instead of manually inputting all details,
+the company wants to clone an existing car rental agreement template and modify
+only the customer’s information. There are 2 types of agreements: short-term( <6 months) and long-term.
