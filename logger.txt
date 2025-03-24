@@ -1,0 +1,1 @@
+Error type: Error ,date:21/03/2025Message: Runtime Error, Division with 0
