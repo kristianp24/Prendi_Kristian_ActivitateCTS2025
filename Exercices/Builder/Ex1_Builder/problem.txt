@@ -1,0 +1,8 @@
+** ChatGPT generated **
+
+A hotel booking system allows customers to reserve a room with optional features
+such as breakfast, sea view, extra bed, and airport pickup.
+The system should allow customers to specify only the features they want and finalize the reservation
+when all selections are made.
+ Implement a module that facilitates building customized room reservations.
+

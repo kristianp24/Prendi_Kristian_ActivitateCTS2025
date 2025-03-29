@@ -1,0 +1,4 @@
+** ChatGPT generated **
+A bakery offers different types of pastries: Croissant, Crepes.
+Implement a module where each type of pastry is prepared by a
+dedicated entity responsible for setting the specific ingredients and baking process.

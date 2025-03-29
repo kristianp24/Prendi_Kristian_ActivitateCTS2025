@@ -1,0 +1,5 @@
+** ChatGPT generated **
+
+A coffee shop offers different types of coffee: Espresso, Cappuccino, and Latte.
+Implement a module that provides a centralized way to create coffee drinks based on a given type.
+ The available coffee types should be stored in an enum.

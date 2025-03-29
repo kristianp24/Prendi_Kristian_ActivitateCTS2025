@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder_v1/Builder_v1.iml" filepath="$PROJECT_DIR$/Seminar5/Builder_v1/Builder_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder_v2/Builder_v2.iml" filepath="$PROJECT_DIR$/Seminar5/Builder_v2/Builder_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Ex1_Builder/Ex1_Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Ex1_Builder/Ex1_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/FactoryMethod/Ex1_FactoryMethod/Ex1_FactoryMethod.iml" filepath="$PROJECT_DIR$/Exercices/FactoryMethod/Ex1_FactoryMethod/Ex1_FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Prototype_Ex/Ex1_Prototype/Ex1_Prototype.iml" filepath="$PROJECT_DIR$/Exercices/Prototype_Ex/Ex1_Prototype/Ex1_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex1_SimpleFactory/Ex1_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex1_SimpleFactory/Ex1_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Singletone/Ex1/Ex1_Singletone.iml" filepath="$PROJECT_DIR$/Exercices/Singletone/Ex1/Ex1_Singletone.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Singletone/Ex2_Collection/Ex2_Collection.iml" filepath="$PROJECT_DIR$/Exercices/Singletone/Ex2_Collection/Ex2_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex2_SimpleFactory/Ex2_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex2_SimpleFactory/Ex2_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Exercices.iml" filepath="$PROJECT_DIR$/Exercices/Exercices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Exercices/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Factory_Method/Factory_Method.iml" filepath="$PROJECT_DIR$/Seminar5/Factory_Method/Factory_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Lab1.iml" filepath="$PROJECT_DIR$/Seminar1/Lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prendi_Kristian_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/Prendi_Kristian_ActivitateCTS2025.iml" />
