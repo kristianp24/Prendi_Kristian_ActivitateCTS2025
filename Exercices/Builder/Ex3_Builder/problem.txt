@@ -1,0 +1,7 @@
+** ChatGPT generated **
+
+Each patient can have a personalized treatment plan.
+ A plan may include optional components like diet schedule, physiotherapy sessions, medication list,
+ mental health support, and activity tracking.
+Design a system that builds a TreatmentPlan object using the Builder Pattern,
+allowing flexible configuration depending on the patient’s needs.

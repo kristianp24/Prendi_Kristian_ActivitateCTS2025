@@ -1,0 +1,5 @@
+** ChatGPT generated **
+
+Certain room configurations (e.g., "VIP room", "COVID isolation", "Maternity suite") are reused often.
+Instead of creating a new configuration every time, staff should be able to clone an existing setup and
+apply minor changes.

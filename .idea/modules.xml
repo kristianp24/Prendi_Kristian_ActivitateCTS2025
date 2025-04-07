@@ -17,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/Exercices/FactoryMethod/Ex2_FactoryMethod/Ex2_FactoryMethod.iml" filepath="$PROJECT_DIR$/Exercices/FactoryMethod/Ex2_FactoryMethod/Ex2_FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Prototype_Ex/Ex2_Prototype/Ex2_Prototype.iml" filepath="$PROJECT_DIR$/Exercices/Prototype_Ex/Ex2_Prototype/Ex2_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex2_SimpleFactory/Ex2_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex2_SimpleFactory/Ex2_SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Ex3_Builder/Ex3_Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Ex3_Builder/Ex3_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Prototype_Ex/Ex3_Prototype/Ex3_Prototype.iml" filepath="$PROJECT_DIR$/Exercices/Prototype_Ex/Ex3_Prototype/Ex3_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex3_SimpleFactory/Ex3_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex3_SimpleFactory/Ex3_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Exercices.iml" filepath="$PROJECT_DIR$/Exercices/Exercices.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Exercices/FactoryMethod/FactoryMethod.iml" />
