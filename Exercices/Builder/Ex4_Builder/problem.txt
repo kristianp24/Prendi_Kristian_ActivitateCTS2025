@@ -1,0 +1,6 @@
+** ChatGPT generated **
+
+A restaurant allows customers to customize their salads.
+A salad can contain different vegetables, toppings (nuts, seeds), proteins (chicken, tofu),
+and dressings. Each ingredient is optional and can be combined in various ways.
+Implement the module that allows building custom salad objects step-by-step.

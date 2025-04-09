@@ -1,0 +1,8 @@
+** ChatGPT generated **
+
+B.5. The restaurant makes various types of pizzas: Margherita, Pepperoni and some types of Crepes:
+Nutella, NutellaWithBiscuits.
+A specialized chef is responsible for preparing the pizza and another one for preparing the crepes.
+Implement the module that uses the factory method pattern to allow each pizza chef subclass to
+create the appropriate pizza or crepe.
+

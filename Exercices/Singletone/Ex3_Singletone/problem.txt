@@ -1,0 +1,4 @@
+** ChatGPT generated **
+
+A city's public transportation system has one central control center that monitors all buses and trains.
+All control requests (location updates, schedule changes) must go through this single center to avoid chaos.

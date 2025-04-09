@@ -1,0 +1,5 @@
+** ChatGPT generated **
+
+The restaurant offers several types of cocktails: Mojito, Margarita, Pina Colada.
+The cocktail types are stored using an enum.
+Implement the module that allows the creation of cocktail objects based on the selected type.

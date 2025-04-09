@@ -18,8 +18,12 @@
       <module fileurl="file://$PROJECT_DIR$/Exercices/Prototype_Ex/Ex2_Prototype/Ex2_Prototype.iml" filepath="$PROJECT_DIR$/Exercices/Prototype_Ex/Ex2_Prototype/Ex2_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex2_SimpleFactory/Ex2_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex2_SimpleFactory/Ex2_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Ex3_Builder/Ex3_Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Ex3_Builder/Ex3_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/FactoryMethod/Ex3_FactoryMethod/Ex3_FactoryMethod.iml" filepath="$PROJECT_DIR$/Exercices/FactoryMethod/Ex3_FactoryMethod/Ex3_FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Prototype_Ex/Ex3_Prototype/Ex3_Prototype.iml" filepath="$PROJECT_DIR$/Exercices/Prototype_Ex/Ex3_Prototype/Ex3_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex3_SimpleFactory/Ex3_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex3_SimpleFactory/Ex3_SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Singletone/Ex3_Singletone/Ex3_Singletone.iml" filepath="$PROJECT_DIR$/Exercices/Singletone/Ex3_Singletone/Ex3_Singletone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Ex4_Builder/Ex4_Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Ex4_Builder/Ex4_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex4_SimpleFactory/Ex4_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex4_SimpleFactory/Ex4_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Exercices.iml" filepath="$PROJECT_DIR$/Exercices/Exercices.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Exercices/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Factory_Method/Factory_Method.iml" filepath="$PROJECT_DIR$/Seminar5/Factory_Method/Factory_Method.iml" />
