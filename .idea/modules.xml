@@ -8,7 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder_v1/Builder_v1.iml" filepath="$PROJECT_DIR$/Seminar5/Builder_v1/Builder_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder_v2/Builder_v2.iml" filepath="$PROJECT_DIR$/Seminar5/Builder_v2/Builder_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Decorator_Ex/Decorator_Ex.iml" filepath="$PROJECT_DIR$/Exercices/Decorator_Ex/Decorator_Ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Ex1_Builder/Ex1_Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Ex1_Builder/Ex1_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Decorator_Ex/Ex1_Decorator/Ex1_Decorator.iml" filepath="$PROJECT_DIR$/Exercices/Decorator_Ex/Ex1_Decorator/Ex1_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/FactoryMethod/Ex1_FactoryMethod/Ex1_FactoryMethod.iml" filepath="$PROJECT_DIR$/Exercices/FactoryMethod/Ex1_FactoryMethod/Ex1_FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Prototype_Ex/Ex1_Prototype/Ex1_Prototype.iml" filepath="$PROJECT_DIR$/Exercices/Prototype_Ex/Ex1_Prototype/Ex1_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex1_SimpleFactory/Ex1_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex1_SimpleFactory/Ex1_SimpleFactory.iml" />

@@ -1,0 +1,17 @@
+** ChatGPT generated **
+
+Every weekend, Jake drives his car to “Sparkle & Go” for a wash.
+The basic wash includes soap and rinse. But many customers want extras—wax, underbody flush,
+or tire shine. The manager wants a system so that the clerk can start with a “BasicWash”
+and then dynamically add whichever extras the customer chooses,
+without having to create a separate class for every combination.
+
+Core Component: CarWash (methods: getCost(), getDescription())
+
+Decorator(s):
+
+WaxDecorator (+$10, “+ wax finish”)
+
+UnderbodyFlushDecorator (+$15, “+ underbody flush”)
+
+TireShineDecorator (+$5, “+ tire shine”)
