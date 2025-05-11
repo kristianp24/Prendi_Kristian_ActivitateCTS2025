@@ -1,9 +1,6 @@
 package ro.cts.main;
 
-import ro.cts.clase.IRezervare;
-import ro.cts.clase.ProxyNumarPersoane;
-import ro.cts.clase.ProxyOra;
-import ro.cts.clase.Rezervare;
+import ro.cts.clase.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,5 +12,6 @@ public class Main {
 
         IRezervare proxyOra = new ProxyOra(proxy);
         proxyOra.rezerva("Popescu", 6, 19);
+
     }
 }

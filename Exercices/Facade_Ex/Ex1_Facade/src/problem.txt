@@ -1,0 +1,14 @@
+** ChatGPT generated **
+
+The restaurant wants to simplify the way waiters place orders.
+Behind the scenes, placing an order involves complex interactions with the kitchen, the bar,
+ and the billing system. A Facade should be implemented to provide a simplified interface
+ for placing and completing orders.
+
+Requirements:
+
+Create classes for: Kitchen, Bar, Billing.
+
+Create a class OrderFacade that coordinates all these subsystems.
+
+Demonstrate how a waiter places a complete order using the facade.
