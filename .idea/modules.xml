@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder_v1/Builder_v1.iml" filepath="$PROJECT_DIR$/Seminar5/Builder_v1/Builder_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder_v2/Builder_v2.iml" filepath="$PROJECT_DIR$/Seminar5/Builder_v2/Builder_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11/ChainOfResponsability/ChainOfResponsability.iml" filepath="$PROJECT_DIR$/Seminar11/ChainOfResponsability/ChainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar9/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar9/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Decorator_Ex/Decorator_Ex.iml" filepath="$PROJECT_DIR$/Exercices/Decorator_Ex/Decorator_Ex.iml" />
@@ -40,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Seminar4/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Prototype_Ex/Prototype_Ex.iml" filepath="$PROJECT_DIR$/Exercices/Prototype_Ex/Prototype_Ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11/Seminar11.iml" filepath="$PROJECT_DIR$/Seminar11/Seminar11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
