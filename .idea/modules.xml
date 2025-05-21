@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Exercices/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/AdapterClase/AdapterClase.iml" filepath="$PROJECT_DIR$/Seminar6/AdapterClase/AdapterClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Builder.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exercices/Composite_Ex/Composite_Ex.iml" filepath="$PROJECT_DIR$/Exercices/Composite_Ex/Composite_Ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Decorator_Ex/Decorator_Ex.iml" filepath="$PROJECT_DIR$/Exercices/Decorator_Ex/Decorator_Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Adapter/Ex1_AdapterClase/Ex1_AdapterClase.iml" filepath="$PROJECT_DIR$/Exercices/Adapter/Ex1_AdapterClase/Ex1_AdapterClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Ex1_Builder/Ex1_Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Ex1_Builder/Ex1_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Composite_Ex/Ex1_Composite/Ex1_Composite.iml" filepath="$PROJECT_DIR$/Exercices/Composite_Ex/Ex1_Composite/Ex1_Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Decorator_Ex/Ex1_Decorator/Ex1_Decorator.iml" filepath="$PROJECT_DIR$/Exercices/Decorator_Ex/Ex1_Decorator/Ex1_Decorator.iml" />
@@ -24,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex1_SimpleFactory/Ex1_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex1_SimpleFactory/Ex1_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Singletone/Ex1/Ex1_Singletone.iml" filepath="$PROJECT_DIR$/Exercices/Singletone/Ex1/Ex1_Singletone.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Strategy/Ex1_Strategy/Ex1_Strategy.iml" filepath="$PROJECT_DIR$/Exercices/Strategy/Ex1_Strategy/Ex1_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Adapter/Ex2_AdapterObiecte/Ex2_AdapterObiecte.iml" filepath="$PROJECT_DIR$/Exercices/Adapter/Ex2_AdapterObiecte/Ex2_AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Ex2_Builder/Ex2_Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Ex2_Builder/Ex2_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Singletone/Ex2_Collection/Ex2_Collection.iml" filepath="$PROJECT_DIR$/Exercices/Singletone/Ex2_Collection/Ex2_Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Composite_Ex/Ex2_Composite/Ex2_Composite.iml" filepath="$PROJECT_DIR$/Exercices/Composite_Ex/Ex2_Composite/Ex2_Composite.iml" />
@@ -32,11 +35,13 @@
       <module fileurl="file://$PROJECT_DIR$/Exercices/Flyweight_Ex/Ex2_Flyweight/Ex2_Flyweight.iml" filepath="$PROJECT_DIR$/Exercices/Flyweight_Ex/Ex2_Flyweight/Ex2_Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Prototype_Ex/Ex2_Prototype/Ex2_Prototype.iml" filepath="$PROJECT_DIR$/Exercices/Prototype_Ex/Ex2_Prototype/Ex2_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex2_SimpleFactory/Ex2_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex2_SimpleFactory/Ex2_SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Adapter/Ex3_AdapterClase/Ex3_AdapterClase.iml" filepath="$PROJECT_DIR$/Exercices/Adapter/Ex3_AdapterClase/Ex3_AdapterClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Ex3_Builder/Ex3_Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Ex3_Builder/Ex3_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/FactoryMethod/Ex3_FactoryMethod/Ex3_FactoryMethod.iml" filepath="$PROJECT_DIR$/Exercices/FactoryMethod/Ex3_FactoryMethod/Ex3_FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Prototype_Ex/Ex3_Prototype/Ex3_Prototype.iml" filepath="$PROJECT_DIR$/Exercices/Prototype_Ex/Ex3_Prototype/Ex3_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex3_SimpleFactory/Ex3_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex3_SimpleFactory/Ex3_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Singletone/Ex3_Singletone/Ex3_Singletone.iml" filepath="$PROJECT_DIR$/Exercices/Singletone/Ex3_Singletone/Ex3_Singletone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercices/Adapter/Ex4_AdapterObiecte/Ex4_AdapterObiecte.iml" filepath="$PROJECT_DIR$/Exercices/Adapter/Ex4_AdapterObiecte/Ex4_AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Builder/Ex4_Builder/Ex4_Builder.iml" filepath="$PROJECT_DIR$/Exercices/Builder/Ex4_Builder/Ex4_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/SimpleFactory/Ex4_SimpleFactory/Ex4_SimpleFactory.iml" filepath="$PROJECT_DIR$/Exercices/SimpleFactory/Ex4_SimpleFactory/Ex4_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercices/Exercices.iml" filepath="$PROJECT_DIR$/Exercices/Exercices.iml" />
