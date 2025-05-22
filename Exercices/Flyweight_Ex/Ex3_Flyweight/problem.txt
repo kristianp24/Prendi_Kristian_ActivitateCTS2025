@@ -1,0 +1,6 @@
+A.15. Într-un sistem de analiză a traficului aerian, fiecare zbor este reprezentat cu date
+despre aeronava folosită (tip, model, număr de locuri, autonomie etc.).
+Deoarece același tip de aeronavă este folosit în multiple zboruri, stocarea acestor date
+de fiecare dată este ineficientă.
+Să se proiecteze un modul de stocare a zborurilor care minimizează consumul de memorie
+folosind informații partajate.
