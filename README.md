@@ -1,5 +1,9 @@
 # 🧠 Activitate CTS 2025
 
+![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-4-red?logo=java&logoColor=white)
+![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000?logo=intellijidea&logoColor=white)
+
 > 📐 Software Quality Lab Portfolio — Design Patterns, Clean Code & Testing  
 > Built with ☕ Java in 💡 IntelliJ IDEA
 
